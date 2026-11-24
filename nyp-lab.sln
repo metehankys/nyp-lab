@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab01", "Lab01\Lab01.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02", "Lab02\Lab02.csproj", "{C4A070D2-D9D8-4499-9F7C-3B72D1EF5FE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CihazYonetimProjesi", "CihazYonetimProjesi\CihazYonetimProjesi.csproj", "{576501E7-4D1D-4E00-9A2D-5421231D140E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CihazYonetimProjesiH1", "CihazYonetimProjesiH1\CihazYonetimProjesiH1.csproj", "{576501E7-4D1D-4E00-9A2D-5421231D140E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
